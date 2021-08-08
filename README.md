@@ -1,7 +1,7 @@
 ### Hi there 👋 *I'm Bilel GATTOUFI*
 ----------------------------------------
-***I'm Full Stack Developer, currently focused on JAVA / Java EE, Angular***
-
+***I'm Full Stack Developer, currently focused on PHP / Angular***
+ 
 - 🔭 I’m currently working on a JEE web application ☕
 - 🌱 I’m currently learning the framework PHP ***symfony*** 
 - 👯 I'm looking to collaborate on projects 👨‍💻👩‍💻🛠
