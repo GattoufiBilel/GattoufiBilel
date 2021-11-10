@@ -1,6 +1,6 @@
 ### Hi there 👋 *I'm Bilel GATTOUFI*
 ----------------------------------------
-***I'm a Developer Backend PHP/JAVA EE 
+***I'm a Developer Backend PHP/JAVA EE*** 
  
 - 🔭 I’m currently working on a JAVA EE web application ☕
 - 🌱 I’m currently learning the NodeJs  
