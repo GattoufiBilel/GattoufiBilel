@@ -1,9 +1,13 @@
 ### Hi there 👋 *I'm Bilel GATTOUFI*
 ----------------------------------------
-***I'm a Backend Developer PHP/JAVA EE*** 
+***I'm a IT Developer*** 
+
+* Technology Software 👨‍💻 : ***JAVA, JAVA J2EE, Spring Boot / Angular, JSF, JSP, Hibernate*** 
+
+* Technology web 👨‍💻 : ***HTML5, CSS3, JAVASCRIPT, Bootstrap jQuery, Angular, PHP, Symfony*** 
  
 - 🔭 I’m currently working on a new Project JAVA ☕
-- 🌱 I’m currently learning the NodeJs  
+- 🌱 I’m currently learning the SPRING BOOT NodeJS  
 - 👯 I'm looking to collaborate on projects 👨‍💻👩‍💻🛠
 - 🤔 I’m looking for more experience 💡💪
 - 📫 How to reach me: 
