@@ -4,10 +4,10 @@
 
 * Technology Software 👨‍💻 : ***JAVA, JAVA J2EE, Spring Boot / Angular, JSF, JSP, Hibernate*** 
 
-* Technology web 👨‍💻 : ***HTML5, CSS3, JAVASCRIPT, Bootstrap jQuery, Angular, PHP, Symfony*** 
+* Technology web 👨‍💻 : ***HTML5, CSS3, JAVASCRIPT, Bootstrap jQuery, Angular, PHP*** 
  
-- 🔭 I’m currently working on a new Project JAVA ☕
-- 🌱 I’m currently learning the SPRING BOOT NodeJS  
+- 🔭 I’m currently working on a new Project JAVA JEE ☕
+- 🌱 I’m currently learning the SPRING BOOT 
 - 👯 I'm looking to collaborate on projects 👨‍💻👩‍💻🛠
 - 🤔 I’m looking for more experience 💡💪
 - 📫 How to reach me: 
