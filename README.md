@@ -1,8 +1,8 @@
 ### Hi there 👋 *I'm Bilel GATTOUFI*
 ----------------------------------------
-***I'm a IT Developer*** 
+***I'm a ANALYST DEVELOPER IT *** 
 
-* Technology Software 👨‍💻 : ***JAVA, JAVA J2EE, Spring Boot / Angular, JSF, JSP, Hibernate*** 
+* Technology Software 👨‍💻 : ***JAVA, J2EE, Spring Boot / Angular, JSF, JSP, Hibernate*** 
 
 * Technology web 👨‍💻 : ***HTML5, CSS3, JAVASCRIPT, Bootstrap jQuery, Angular, PHP*** 
  
