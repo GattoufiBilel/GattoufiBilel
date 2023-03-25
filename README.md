@@ -1,6 +1,6 @@
 ### Hi there 👋 *I'm Bilel GATTOUFI*
 ----------------------------------------
-***I'm a ANALYST DEVELOPER IT *** 
+***I'm a IT ANALYST DEVELOPER *** 
 
 * Technology Software 👨‍💻 : ***JAVA, J2EE, Spring Boot / Angular, JSF, JSP, Hibernate*** 
 
